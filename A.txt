@@ -3,7 +3,3 @@ aa
 aaa
 aaaa
 aaaaa
-aaaa
-aaa
-aa
-a
